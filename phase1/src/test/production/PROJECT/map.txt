@@ -1,0 +1,6 @@
+subway 1: Vaughan, Dupont, Spadina, St.George, Museum, Queen's, Union, Bloor, Rosedale, Finch, Vaughan: 10, 5, 5, 5, 5, 10, 20, 5, 5, 30:06,00:00,00:5:1
+subway 2: Kipling, Spadina, St.George, Bay, Bloor, Sherbourne, Kennedy: 15, 5, 5, 5, 10, 10:06,00:00,00:5:1
+subway 3: Kennedy, Lawrence, Mclowan: 10, 10:06,00:00,00:5:2
+bus 501: St.George, Bay, Bloor, Sherbourne, Kennedy, Lawrence: 10, 10, 15, 15, 15:06,00:00,00:5:2
+bus 502: Spadina, St.George, Museum, Queen's, Union, Danforth, Scar: 5, 10, 5, 10, 15, 10:06,00:00,00:5:2
+bus 503: Finch, Rosedale, Bloor, Wellesley, College, Danforth: 10, 10, 5, 5, 15:06,00:00,00:5:3

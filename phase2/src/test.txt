@@ -1,0 +1,62 @@
+Date:2018 7 1
+Add_cardholder:"Bill,Hu" created a user account with "billhu195@gmail.com"
+Add_cardholder:"Iris" created a user account with "1234"
+Add_cardholder:"Edwin" created a user account with "123"
+Change_name:"billhu195@gmail.com" account has changed name to "Bill"
+Activate_card:Cardholder whose email is 1234 activate a card 0 with the password 123456
+Activate_card:Cardholder whose email is 123 activate a card 1 with the password 222222
+Activate_card:Cardholder whose email is 123 activate a card 2 with the password 333333
+Activate_card:Cardholder whose email is 123 activate a card 3 with the password 555
+Activate_card:Cardholder whose email is irisong980912@gmail.com activate a card 3 with the password 55555
+Activate_card:Cardholder whose email is billhu195@gmail.com activate a card 4 with the password 666666
+Activate_card:Cardholder whose email is irisong980912@gmail.com activate a card 2 with the password 5c
+Suspend_card:Cardholder whose email is "123" suspend card 2
+Activate_card:Cardholder whose email is 123 activate a card 2 with the password 333333
+Tap_in:card 0 enter bus 502 at 10,30 @ Spadina
+Tap_out:card 0 exit bus 502 at 11,00 @ Museum
+Tap_in:card 0 enter bus 502 at 11,30 @ Museum
+Tap_out:card 0 exit bus 502 at 12,00 @ Danforth
+Tap_in:card 0 enter bus 503 at 12,01 @ Danforth
+Tap_out:card 0 exit bus 503 at 12,05 @ Danforth
+Tap_in:card 0 enter bus 503 at 12,07 @ Bloor
+Tap_out:card 0 exit bus 503 at 13,30 @ Danforth
+Tap_in:card 0 enter bus 502 at 13,33 @ Spadina
+Tap_out:card 0 exit bus 502 at 13,45 @ Scar
+Tap_in:card 0 enter subway 2 at 14,33 @ Kipling
+Tap_out:card 0 exit subway 2 at 14,45 @ Bay
+Tap_in:card 1 enter subway 1 at 11,00 @ St.George
+Tap_out:card 1 exit subway 1 at 11,02 @ St.George
+Tap_in:card 1 enter subway 1 at 11,05 @ St.George
+Tap_out:card 1 exit subway 1 at 11,10 @ Queen's
+Date:2018 7 2
+Add_balance:Card 0 add 50 dollars
+Tap_out:card 0 exit bus 502 at 8,45 @ Scar
+Tap_in:card 0 enter bus 502 at 11,30 @ Scar
+Tap_out:card 0 exit bus 502 at 12,00 @ Museum
+Tap_in:card 0 enter bus 503 at 12,07 @ Danforth
+Tap_in:card 0 enter subway 1 at 11,00 @ St.George
+Tap_in:card 0 enter subway 1 at 11,02 @ St.George
+Tap_in:card 0 enter bus 502 at 11,30 @ Museum
+Tap_out:card 0 exit bus 503 at 12,00 @ Wellesley
+Date:2018 7 3
+Date:2018 7 4
+Tap_in:card 1 enter subway 1 at 11,05 @ St.George
+Tap_out:card 1 exit subway 1 at 11,10 @ Queen's
+Tap_in:card 0 enter subway 2 at 14,33 @ Kipling
+Tap_out:card 0 exit subway 2 at 14,45 @ Bay
+Three_recent_trips_Card:Card 0 wants to know three recent trips
+View_trip_for_date_Card:Card 0 want to know trips on 2018 7 2
+Total_money_for_range_CH:123 2018 7 1 2018 7 2
+Total_station_for_range_CH:123 2018 7 1 2018 7 2
+Total_money_for_range_Admin:2018 7 1 2018 7 3
+Total_station_for_range_Admin:2018 7 1 2018 7 3
+Find_path:Kennedy Danforth Senior
+Find_path:Vaughan Wellesley Adult
+Find_path:Queen's College Adult
+Find_path:Spadina Museum Adult
+Find_path:Vaughan Bloor Adult
+Find_path:Spadina Sherbourne Adult
+Find_path:Spadina Bloor Adult
+Find_path:Dupont Bay Senior
+Next_Transit:501 Bloor
+Next_Transit:2 Bloor

@@ -1,0 +1,28 @@
+zhouka11, 1003457840
+1. AdminGUI: Admin Login Page, Admin Register Page, Admin Statistic Page, Admin Table View Page
+2. Functions relate to Admin in: UserManager, AdminUser, Admin Statistic
+3. Other Small GUI Box/method that provide was used for GUI
+
+gaoxiao8, 1003030043, Xiaoqi Gao
+1. Redesigned all classes using different design patterns.
+2. Redesigned the algorithm when performing tap activities and charging money.
+3. Wrote all the serialization classes and added logger.
+4. Designed and implmented extra statistical features for Admin users and card holders.
+5. Designed and implmented the extra feature FindPath (recommend paths between two stations)
+using DijkstraAlgorithm which was learnt online.
+6. Wrote import txt files and test cases to test the program correctness.
+7. helped debugged front end.
+
+zhaohai5, 1002569641 Hailun Zhao
+
+1. UserGUI: the start method in main class
+
+2. Functions relate to all GUI: FrontManager
+
+3. GUI Box that provin front folders except the AdminGUI
+
+hujianhu, 1003560639, Jianhua Hu
+1. Design the test map of Transit system.
+2. MapGUI: all fxml files, MapController, RouteController.
+3. Extra feature: get next transit arrive time (for both direction).
+4. Redesign some classes from phase 1.
